@@ -2,7 +2,7 @@
 
 - 🏫 I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)
 - 🔭 I'm currently working on nothing
-- 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Python | Java
+- 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Dart | Flutter | Java
 - 📫 How to reach me: [My personal e-mail](mailto:natanalmeida158@hotmail.com)
 - 😄 Pronouns: HE/HIS
 
@@ -15,7 +15,8 @@
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Natan-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Natan-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Natan-zoro" height="100" width="100"src="https://media1.tenor.com/images/fde10f0a706b219627dfcd34a6a1c939/tenor.gif?itemid=5039562">
 </div>
