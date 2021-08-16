@@ -18,7 +18,7 @@
   <img align="center" alt="Natan-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Natan-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Natan-zoro" height="100" width="100"src="https://media1.tenor.com/images/fde10f0a706b219627dfcd34a6a1c939/tenor.gif?itemid=5039562">
+  <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://maratonadesofa.com/wp-content/uploads/2020/10/833f2d51e4197662dd71b99396f72b37.gif">
 </div>
   
   ##
