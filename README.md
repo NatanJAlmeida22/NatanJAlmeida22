@@ -2,7 +2,7 @@
 
 - 🏫 I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)
 - 🔭 I'm currently working on nothing
-- 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Java | Python
+- 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Python
 - 📫 How to reach me: [My personal e-mail](mailto:natanalmeida158@hotmail.com)
 - 😄 Pronouns: HE/HIS
 
@@ -15,7 +15,6 @@
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://maratonadesofa.com/wp-content/uploads/2020/10/833f2d51e4197662dd71b99396f72b37.gif">
 </div>
