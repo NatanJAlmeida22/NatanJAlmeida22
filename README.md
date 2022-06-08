@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🏫 I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate)
-- 🔭 I'm currently working at <a href="https://www.cencosud.com/pt" target="_blank">@Cencosud</a>
+- 🔭 I'm currently working at [@CENCOSUD](https://www.cencosud.com/pt)
 - 🌱 I’m currently learning HTML5 | CSS3 | JavaScript | Python
 - 📫 How to reach me: [My personal e-mail](mailto:natanalmeida158@hotmail.com)
 - 😄 Pronouns: HE/HIS
