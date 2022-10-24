@@ -16,7 +16,7 @@
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://maratonadesofa.com/wp-content/uploads/2020/10/833f2d51e4197662dd71b99396f72b37.gif">
+  <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://media.tenor.com/p7nKXke-ol8AAAAS/mikasa-attack-on-titan-shingeki-no-kyojin-season4attaque-des-titans.gif">
 </div>
   
   ##
