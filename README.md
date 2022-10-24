@@ -16,7 +16,7 @@
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://media.tenor.com/Kf15J8czHt4AAAAM/shanks-shanks-approves.gif">
+  <img align="right" alt="Natan-Luffy" height="150" width="150"src="https://media.tenor.com/uBrwnMXSud0AAAAM/shanks.gif">
 </div>
   
   ##
